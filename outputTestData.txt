@@ -1,0 +1,45 @@
+Total Phrases: 66292
+Phrases having only one word count: 10014
+Total Short Phrases (Less than 6 words): 39861
+Total Short Sentence (Less than 6 words) Marked Neutral: 30638
+
+### Counts when sentiment word is in Anywhere in the Sentence ###
+
+Total Count: 3517
+Total Count Not: 1438
+Total Count No: 753
+Total Count Sad: 96
+Total Count Bad: 502
+Total Count Terrible: 58
+Total Count Worst: 112
+Total Count Worse: 83
+Total Count Weak: 66
+Total Count Unable: 13
+Total Count Never: 396
+
+### Counts when sentiment word is in the first position ###
+
+Total Count: 518
+Total Count Not: 173; Marked Correctly (Negative / Slightly negative): 27
+Total Count No: 194; Marked Correctly (Negative / Slightly negative): 27
+Total Count Bad: 51; Marked Correctly (Negative / Slightly negative): 36
+Total Count Terrible: 7; Marked Correctly (Negative / Slightly negative): 4
+Total Count Worst: 10; Marked Correctly (Negative / Slightly negative): 10
+Total Count Worse: 6; Marked Correctly (Negative / Slightly negative): 6
+Total Count Weak: 7; Marked Correctly (Negative / Slightly negative): 7
+Total Count Unable: 3; Marked Correctly (Negative / Slightly negative): 3
+Total Count Never: 56; Marked Correctly (Negative / Slightly negative): 17
+Total Count Sad: 11; Marked Correctly (Negative / Slightly negative): 2
+
+### Wrong Marked Sentiment for common negative words, when they occur in first position ###
+
+Total Count Not: 146; Marked Neutral: 97
+Total Count No: 167; Marked Neutral: 142
+Total Count Bad: 15; Marked Neutral: 14
+Total Count Terrible: 3; Marked Neutral: 3
+Total Count Worst: 0; Marked Neutral: 0
+Total Count Worse: 0; Marked Neutral: 0
+Total Count Weak: 0; Marked Neutral: 0
+Total Count Unable: 0; Marked Neutral: 0
+Total Count Never: 39; Marked Neutral: 26
+Total Count Sad: 9; Marked Neutral: 6
